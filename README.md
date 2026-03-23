@@ -104,23 +104,6 @@ The admin panel is organized into seven functional tabs:
 
 ---
 
-## Tech Stack
-
-| Layer | Technology |
-|-------|-----------|
-| **Framework** | React 18, TypeScript, Vite |
-| **Styling** | Tailwind CSS, shadcn/ui, CSS custom properties (HSL design tokens) |
-| **State** | TanStack React Query, React Context (Currency, Translation) |
-| **Routing** | React Router v6 |
-| **Drag & Drop** | @dnd-kit/core, @dnd-kit/sortable |
-| **Charts** | Recharts |
-| **Backend** | Lovable Cloud (Supabase) — Postgres, Edge Functions (Deno), Auth, Storage |
-| **AI** | Lovable AI Gateway → Google Gemini 3 Flash |
-| **Forms** | React Hook Form + Zod validation |
-| **Markdown** | react-markdown for AI chat rendering |
-
----
-
 ## Screenshots
 
 ### Core Experience
