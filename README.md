@@ -110,7 +110,7 @@ The admin panel is organized into seven functional tabs:
 
 | Home Page | Example Destination | My Trips | Itinerary Customization |
 |-----------|---------------------|----------|--------------------------|
-| ![Home](images/home.png) | ![Destination](images/destination.png) | ![My Trips](images/my-trips.png) | ![Itinerary](images/itinerary.png) |
+| ![Home](Images/Home.png) | ![Destination](Images/Sydney.png) | ![My Trips](Images/My_Trips.png) | ![Itinerary](Images/Cust_Itin.png) |
 
 ---
 
@@ -118,7 +118,7 @@ The admin panel is organized into seven functional tabs:
 
 | AI Itinerary Generation | AI Feedback Summary |
 |------------------------|-------------------|
-| ![AI 1](images/ai-1.png) | ![AI 2](images/ai-2.png) |
+| ![AI 1](Images/AI_Feedback.png) | ![AI 2](Images/AI_Itin.png) |
 
 ---
 
@@ -126,7 +126,7 @@ The admin panel is organized into seven functional tabs:
 
 | Admin Tab | Admin Analytics |
 |-----------|----------------|
-| ![Admin 1](images/admin-1.png) | ![Admin 2](images/admin-2.png) |
+| ![Admin 1](Images/admin-collage-1.png) | ![Admin 2](Images/admin-collage-2.png) |
 
 ---
 
@@ -134,7 +134,7 @@ The admin panel is organized into seven functional tabs:
 
 | Profile | Settings | Help | Feedback |
 |---------|----------|------|----------|
-| ![Profile](images/profile.png) | ![Settings](images/settings.png) | ![Help](images/help.png) | ![Feedback](images/feedback.png) |
+| ![Profile](Images/Profile.png) | ![Settings](Images/Settings.png) | ![Help](Images/Help.png) | ![Feedback](Images/Feedback.png) |
 
 ## License
 
